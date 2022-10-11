@@ -7,5 +7,5 @@ app.listen(port,() =>{
 });
 
 app.get("/",(req,res)=>{
-    res.send("run complete.!!");
+    res.send("run complete.");
 });
