@@ -1,0 +1,25 @@
+{
+  "name": "vision_server",
+  "version": "1.0.0",
+  "description": "vision application project back-end package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./test.js",
+    "dev": "nodemon --watch \"./src/**/*.js\" --exec \"npm start\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbbjihan/vision_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbbjihan/vision_server/issues"
+  },
+  "homepage": "https://github.com/bbbjihan/vision_server#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
