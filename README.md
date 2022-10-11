@@ -1,4 +1,4 @@
-# vision project back-end package
+# 👁‍🗨 vision project back-end package
 ### MEMBER
 * 김민지
 * 김태윤
