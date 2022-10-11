@@ -6,7 +6,7 @@
 * 방선웅
 * 정회석
 ***
-* COMMIT HEADER
+### COMMIT HEADER
 
 |header|description|
 |------|-----------|
@@ -18,7 +18,7 @@
 |PERF|(Performance)속도 개선|
 |CLN|(Cleanup) 코드 정리 / 리팩토링|
 
-* COMMIT MESSAGE
+### COMMIT MESSAGE
 
 |Message form|description|example|
 |------------|-----------|-------|
