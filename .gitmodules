@@ -1,0 +1,3 @@
+[submodule "vision_yolov5"]
+	path = vision_yolov5
+	url = https://github.com/bbbjihan/vision_yolov5
